@@ -1,17 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails application for AcmeCo to have a registry to keep track of its employees.
 
-Things you may want to cover:
-
-* Ruby version
+* Ruby version 3.2.2
+* Rails Version 7.1.3.2
 
 * System dependencies
 
 * Configuration
 
-* Database creation
+* Database:
+* Postgresql version 14.8
 
 * Database initialization
 
@@ -21,4 +20,3 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
